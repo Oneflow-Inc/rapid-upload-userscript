@@ -6,7 +6,7 @@
 
 ## Usage
 
-安装脚本可参考 [安装教程](https://xtsat.github.io/rapid-upload-userscript-doc/install-userscript/)
+安装脚本可参考 [安装教程](https://xtsat.github.io/rapid-upload-userscript-doc/document/)
 
 注意此分支为dev分支, 安装脚本请不要使用此分支的dist
 
